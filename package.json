@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@faker-js/faker": "^8.3.1",
-    "formidable": "^3.5.1"
+    "formidable": "^3.5.1",
+    "nodemailer": "^6.9.7"
   }
 }
